@@ -1,6 +1,10 @@
+body {
+	background: #0a0a0a;
+}
+
 #hero {
 	padding: 65px 0;
-	background-image: linear-gradient(transparent 65%, #020202), url('../img/albumart.jpg');
+	background-image: linear-gradient(transparent 65%, #0a0a0a), url('../img/albumart.jpg');
 	background-position: 50% 50%;
 	background-size: cover;
 	text-align: center;
