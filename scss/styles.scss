@@ -1,0 +1,23 @@
+#hero {
+	padding: 65px 0;
+	background-image: url('../img/albumart.jpg');
+	background-position: 50% 50%;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+	hr {
+		max-width: 12rem;
+		box-shadow: 3px 2px 2px #0e0e0e;
+		border-bottom: 2px solid #cacaca;
+	}
+	h1, h2, p {
+		font-family: "Lato", Arial, sans-serif;
+		text-shadow: 3px 2px 2px #0e0e0e;
+	}
+	h1, h2 {
+		font-weight: 600
+	}
+	h2 {
+		font-size: 2.5rem;
+	}
+}
